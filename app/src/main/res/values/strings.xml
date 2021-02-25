@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pup Adoption</string>
+    <string name="gallery">My Photos</string>
+    <string name="adopt_me">ADOPT ME</string>
+    <string name="go_back">Go Back</string>
+    <string name="your_location">Your location</string>
+    <string name="pup">Pup</string>
+    <string name="pup_image">Pup image</string>
+    <string name="pup_name">Pup name</string>
+    <string name="pup_breed">Pup breed</string>
+    <string name="pup_gender">Pup gender</string>
+    <string name="pup_address">Pup address</string>
+</resources>
